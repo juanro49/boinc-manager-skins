@@ -16,4 +16,4 @@ Mas información sobre BOINC en su [web oficial](https://boinc.berkeley.edu/inde
 
 ## Skins
 Skins incluidas hasta el momento (si conoces alguna mas, no dudes en compartirla para añadirla al paquete)
-<img src="https://i.imgur.com/owoFT5k.png" height="450"/><img src="https://i.imgur.com/mAbc2Qy.png" height="450"/><img src="https://i.imgur.com/C8zlcY1.png" height="450"/><img src="https://i.imgur.com/nLgoIH8.png" height="450"/><img src="https://i.imgur.com/2IAs7iY.png" height="450"/><img src="https://i.imgur.com/AJJUUBa.png" height="450"/><img src="https://i.imgur.com/3NHV5VV.png" height="450"/>
+<img src="https://i.imgur.com/ngOS4uu.png" height="450"/><img src="https://i.imgur.com/owoFT5k.png" height="450"/><img src="https://i.imgur.com/mAbc2Qy.png" height="450"/><img src="https://i.imgur.com/C8zlcY1.png" height="450"/><img src="https://i.imgur.com/nLgoIH8.png" height="450"/><img src="https://i.imgur.com/2IAs7iY.png" height="450"/><img src="https://i.imgur.com/AJJUUBa.png" height="450"/><img src="https://i.imgur.com/3NHV5VV.png" height="450"/>
