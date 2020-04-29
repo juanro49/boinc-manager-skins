@@ -1,0 +1,23 @@
+Source: boinc-manager-skins
+Section: default
+Priority: optional
+Maintainer: Juanro <juanro.aof@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.0.0
+Homepage: https://github.com/juanro49/boinc-manager-skins
+Vcs-Git: https://github.com/juanro49/boinc-manager-skins.git
+Vcs-browser: https://github.com/juanro49/boinc-manager-skins.git
+
+Package: boinc-manager-skins
+Architecture: all
+Depends:
+ boinc-manager
+Recommends: boinc, boinc-client, boinc-client-opencl
+Description: Skins for BOINC Manager GUI
+ The BOINC Manager is a graphical monitor and control utility for the BOINC
+ core client. It gives a detailed overview of the state of the client it is
+ monitoring. The BOINC Manager has two modes of operation, the "Simple View" in
+ which it only displays the most important information and the "Advanced View"
+ in which all information and all control elements are available.
+ .
+ This package contains skin files to style the GUI.
