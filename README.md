@@ -2,7 +2,7 @@
 Paquete Debian con skins para BOINC Manager
 
 ## Instalación
-### [PatoJAD Repo](https://patojad.com.ar/repositorio/) (Próximamente)
+### [PatoJAD Repo](https://patojad.com.ar/repositorio/)
 - Añadir PatoJAD Repo al sistema
 ```
 echo 'deb https://gitlab.com/patojad/repository/raw/patojad/debs/ patojad main' | sudo tee /etc/apt/sources.list.d/patojad.list
