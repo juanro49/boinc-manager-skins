@@ -22,13 +22,13 @@ sudo dpkg -i boinc-manager-skins_1.1_all.deb
 
 ## Instalación Windows
 - Descargar [este zip](https://github.com/juanro49/boinc-manager-skins/archive/1.1.zip) y abrirlo con [7zip](https://7zip-es.updatestar.com/)
-- Copiar el contenido de la ruta zip/boinc-manager-skins-1.1/var/lib/boinc/skins a C:\Program Files\BOINC\Skins
+- Copiar el contenido de la ruta **zip/boinc-manager-skins-1.1/var/lib/boinc/skins** a **C:\Program Files\BOINC\Skins**
 
 ## Sobre BOINC
 BOINC le permite ayudar a la investigación científica de vanguardia utilizando su ordenador (Windows, Mac, Linux) o un dispositivo Android. De esta forma, cualquier persona puede colaborar desde casa dejando que su ordenador o smartphone realice operaciones de cálculo. Es fácil y seguro.
-Existen varios proyectos como el de [Ibercivis](https://instatecno.com/csic-boinc-farmacos-contra-coronavirus/) con los que se puede colaborar.
+Existen varios proyectos como el de [**Ibercivis**](https://instatecno.com/csic-boinc-farmacos-contra-coronavirus/) con los que se puede colaborar.
 
-Mas información sobre BOINC en su [web oficial](https://boinc.berkeley.edu/index.php) y en [Canal@Boinc](http://www.canalboinc.es/).
+Mas información sobre BOINC en su [web oficial](https://boinc.berkeley.edu/index.php) y en [**Canal@Boinc**](http://www.canalboinc.es/).
 
 ## Skins
 Skins incluidas hasta el momento (si conoces alguna mas, no dudes en compartirla para añadirla al paquete)
