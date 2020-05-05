@@ -26,7 +26,7 @@ sudo dpkg -i boinc-manager-skins_1.1_all.deb
 
 ## Sobre BOINC
 BOINC le permite ayudar a la investigación científica de vanguardia utilizando su ordenador (Windows, Mac, Linux) o un dispositivo Android. De esta forma, cualquier persona puede colaborar desde casa dejando que su ordenador o smartphone realice operaciones de cálculo. Es fácil y seguro.
-Existen varios proyectos como el de [**Ibercivis**](https://instatecno.com/csic-boinc-farmacos-contra-coronavirus/) con los que se puede colaborar.
+Existen varios proyectos como el de [**Ibercivis**](http://feedproxy.google.com/~r/Instatecno/~3/6re-PPHzh2E/CBMiPmh0dHBzOi8vaW5zdGF0ZWNuby5jb20vY3NpYy1ib2luYy1mYXJtYWNvcy1jb250cmEtY29yb25hdmlydXMv0gEA?utm_source=feedtv&utm_medium=feed) con los que se puede colaborar.
 
 Mas información sobre BOINC en su [web oficial](https://boinc.berkeley.edu/index.php) y en [**Canal@Boinc**](http://www.canalboinc.es/).
 
