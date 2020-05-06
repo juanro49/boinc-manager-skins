@@ -16,12 +16,12 @@ sudo apt install boinc-manager-skins
 
 ### Paquete deb
 ```
-wget https://github.com/juanro49/boinc-manager-skins/releases/download/1.1/boinc-manager-skins_1.1_all.deb
+wget https://github.com/juanro49/boinc-manager-skins/releases/download/1.2/boinc-manager-skins_1.2_all.deb
 sudo dpkg -i boinc-manager-skins_1.1_all.deb
 ```
 
 ## Instalación Windows
-- Descargar [este zip](https://github.com/juanro49/boinc-manager-skins/archive/1.1.zip) y abrirlo con [7zip](https://7zip-es.updatestar.com/)
+- Descargar [este zip](https://github.com/juanro49/boinc-manager-skins/archive/1.2.zip) y abrirlo con [7zip](https://7zip-es.updatestar.com/)
 - Copiar el contenido de la ruta **zip/boinc-manager-skins-1.1/var/lib/boinc/skins** a **C:\Program Files\BOINC\Skins**
 
 ## Sobre BOINC
