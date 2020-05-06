@@ -13,7 +13,9 @@
 				<!--	640x500 -->
 				<image>
 					<imagesrc>imagenes/background_image.jpg</imagesrc>
-					<background_color>70:110:225</background_color>
+					<background_color>1:7:50</background_color>
+					<anchor_horizontal_center><anchor_horizontal_center>
+					<anchor_vertical_bottom></anchor_vertical_bottom>
 				</image>
 			</background_image>
 			<project_image>
